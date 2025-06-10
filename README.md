@@ -41,3 +41,11 @@ I’ve completed Kaggle's [Feature Engineering](https://www.kaggle.com/learn/cer
 ![Abdul Rehman - Feature Engineering](https://github.com/user-attachments/assets/8505d23d-95e5-45f3-b37a-2db76166fdd1)
 
 ---
+
+### Intermediate Machine Learning
+Completed Kaggle’s [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/abdulrehmanchatha/intermediate-machine-learning) course, focusing on advanced data preprocessing, model validation, and techniques such as handling missing values and using XGBoost. The course enhanced practical ML skills and prepared me for real-world data science challenges.
+![Abdul Rehman - Intermediate Machine Learning](https://github.com/user-attachments/assets/5266cb17-f887-4fa1-be8f-1a192d88fe0e)
+
+
+---
+
